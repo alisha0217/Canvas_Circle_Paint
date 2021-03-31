@@ -11,7 +11,7 @@ function my_mousedown(e)
     color = document.getElementById("color").value;
     width_of_line = document.getElementById("line_width").value;
     radius = document.getElementById("radius").value;
-    MouseEvent = "mouseDown";
+    MouseEvent - "mouseDown";
 }
 
 canvas.addEventListener("mousemove", my_mousemove);
